@@ -1,0 +1,18 @@
+.hero{
+    background-color: brown;
+    color: greenyellow;
+    padding: 100px;
+    text-align: center;
+}
+
+.heading{
+    font-size: 48px;
+}
+
+.button{
+    background-color: rgb(8, 223, 44);
+    color: rgb(67, 20, 220);
+    padding: 10px 20px ;
+    font-size: 18px;
+    cursor: pointer;
+}

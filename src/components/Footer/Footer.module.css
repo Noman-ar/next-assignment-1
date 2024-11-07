@@ -1,0 +1,19 @@
+.container{
+    background-color: blueviolet;
+    height: 100px;
+    
+}
+
+.heading{
+    color:whitesmoke;
+    text-align: center;
+    text-decoration: underline;
+     
+}
+
+.para{
+    color: aliceblue;
+    text-align: center;
+    padding-top: 40px;
+   
+}

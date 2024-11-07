@@ -1,0 +1,22 @@
+.container{
+    background-color:rgb(68, 74, 59);
+    height: 100px;
+}
+
+.heading{
+    color: rgb(136, 4, 4);
+    text-align: center;
+    font-weight: bold;
+    font-size: larger;
+    text-decoration-line: underline;
+}
+
+.list{
+    color:rgb(240, 229, 11);
+    margin-top: 2px;
+    padding: 2px;
+    display: flex;
+    gap: 10px;
+    text-decoration-line: underline;
+
+}

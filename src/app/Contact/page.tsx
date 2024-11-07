@@ -1,8 +1,18 @@
-import React from 'react'
+import Hero from "@/components/Hero/Hero"
+import Header from "@/components/Header/Header"
+import Footer from "@/components/Footer/Footer"
+import styles from "./Contact.module.css"
 
 const Contact = () => {
   return (
-    <div className='bg-pink-500 h-14'><h1 className='text-center underline'>THIS IS OUR CONTACT PAGE.</h1></div>
+    <div className={styles.container}>
+      <h1 className={styles.h1}>THIS IS OUR CONTACT PAGE.</h1>
+      <Header/>
+      <Hero/>
+      <Footer/>
+      
+      
+      </div>
   )
 }
 
